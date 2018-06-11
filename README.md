@@ -1,0 +1,2 @@
+# expendletextviewtest
+一个可以翻折的textview
